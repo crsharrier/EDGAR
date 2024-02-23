@@ -1,0 +1,95 @@
+,Unnamed: 0,entity_name,ticker,entity_name_clean
+0,0,3M Co.,MMM,3M Co.
+1,1,Abbott Laboratories,ABT,Abbott Laboratories
+2,2,Abbvie Inc,ABBV,Abbvie Inc
+3,3,Accenture plc - Class A Shares,ACN,Accenture plc - Class A Shares
+4,4,Alphabet Inc - Class C Shares,GOOG,Alphabet Inc - Class C Shares
+5,5,Altria Group Inc.,MO,Altria Group Inc.
+6,6,Amazon.com Inc.,AMZN,Amazon.com Inc.
+7,7,American Electric Power Company Inc.,AEP,American Electric Power Company Inc.
+8,8,American Express Co.,AXP,American Express Co.
+9,9,American International Group Inc,AIG,American International Group Inc
+10,10,AMGEN Inc.,AMGN,AMGEN Inc.
+11,11,Apple Inc,AAPL,Apple Inc
+12,12,"AT&T, Inc.",T,"AT&T, Inc."
+13,13,Bank Of America Corp.,BAC,Bank Of America Corp.
+14,14,Bank Of New York Mellon Corp,BK,Bank Of New York Mellon Corp
+15,15,Baxter International Inc.,BAX,Baxter International Inc.
+16,16,Berkshire Hathaway Inc. - Class B Shares,BRKB,Berkshire Hathaway Inc. - Class B Shares
+17,17,Biogen Inc,BIIB,Biogen Inc
+18,18,Boeing Co.,BA,Boeing Co.
+19,19,Bristol-Myers Squibb Co.,BMY,Bristol-Myers Squibb Co.
+20,20,Broadcom Inc,AVGO,Broadcom Inc
+21,21,Capital One Financial Corp.,COF,Capital One Financial Corp.
+22,22,Caterpillar Inc.,CAT,Caterpillar Inc.
+23,23,Chevron Corp.,CVX,Chevron Corp.
+24,24,"Cisco Systems, Inc.",CSCO,"Cisco Systems, Inc."
+25,25,Citigroup Inc,C,Citigroup Inc
+26,26,Coca-Cola Co,KO,Coca-Cola Co
+27,27,Colgate-Palmolive Co.,CL,Colgate-Palmolive Co.
+28,28,Comcast Corp - Class A Shares,CMCSA,Comcast Corp - Class A Shares
+29,29,Conoco Phillips,COP,Conoco Phillips
+30,30,Costco Wholesale Corp,COST,Costco Wholesale Corp
+31,31,CVS Health Corp,CVS,CVS Health Corp
+32,32,Devon Energy Corp.,DVN,Devon Energy Corp.
+33,33,Dow Inc,DOW,Dow Inc
+34,34,EBay Inc.,EBAY,EBay Inc.
+35,35,Emerson Electric Co.,EMR,Emerson Electric Co.
+36,36,Exelon Corp.,EXC,Exelon Corp.
+37,37,Exxon Mobil Corp.,XOM,Exxon Mobil Corp.
+38,38,Fedex Corp,FDX,Fedex Corp
+39,39,Ford Motor Co.,F,Ford Motor Co.
+40,40,Freeport-McMoRan Inc,FCX,Freeport-McMoRan Inc
+41,41,General Dynamics Corp.,GD,General Dynamics Corp.
+42,42,General Motors Company,GM,General Motors Company
+43,43,"Gilead Sciences, Inc.",GILD,"Gilead Sciences, Inc."
+44,44,"Goldman Sachs Group, Inc.",GS,"Goldman Sachs Group, Inc."
+45,45,Halliburton Co.,HAL,Halliburton Co.
+46,46,"Home Depot, Inc.",HD,"Home Depot, Inc."
+47,47,Honeywell International Inc,HON,Honeywell International Inc
+48,48,HP Inc,HPQ,HP Inc
+49,49,Intel Corp.,INTC,Intel Corp.
+50,50,International Business Machines Corp.,IBM,International Business Machines Corp.
+51,51,Johnson & Johnson,JNJ,Johnson & Johnson
+52,52,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co.
+53,53,Lilly(Eli) & Co,LLY,Lilly(Eli) & Co
+54,54,Lockheed Martin Corp.,LMT,Lockheed Martin Corp.
+55,55,"Lowe's Cos., Inc.",LOW,"Lowe's Cos., Inc."
+56,56,Mastercard Incorporated - Class A Shares,MA,Mastercard Incorporated - Class A Shares
+57,57,McDonald's Corp,MCD,McDonald's Corp
+58,58,Medtronic Plc,MDT,Medtronic Plc
+59,59,Merck & Co Inc,MRK,Merck & Co Inc
+60,60,Meta Platforms Inc - Class A Shares,META,Meta Platforms Inc - Class A Shares
+61,61,Metlife Inc,MET,Metlife Inc
+62,62,Microsoft Corporation,MSFT,Microsoft Corporation
+63,63,Mondelez International Inc. - Class A Shares,MDLZ,Mondelez International Inc. - Class A Shares
+64,64,Morgan Stanley,MS,Morgan Stanley
+65,65,NetFlix Inc,NFLX,NetFlix Inc
+66,66,"Nike, Inc. - Class B Shares",NKE,"Nike, Inc. - Class B Shares"
+67,67,Norfolk Southern Corp.,NSC,Norfolk Southern Corp.
+68,68,Oracle Corp.,ORCL,Oracle Corp.
+69,69,PepsiCo Inc,PEP,PepsiCo Inc
+70,70,Pfizer Inc.,PFE,Pfizer Inc.
+71,71,Philip Morris International Inc,PM,Philip Morris International Inc
+72,72,Procter & Gamble Co.,PG,Procter & Gamble Co.
+73,73,"Qualcomm, Inc.",QCOM,"Qualcomm, Inc."
+74,74,RTX Corp,RTX,RTX Corp
+75,75,"Simon Property Group, Inc.",SPG,"Simon Property Group, Inc."
+76,76,Southern Company,SO,Southern Company
+77,77,Starbucks Corp.,SBUX,Starbucks Corp.
+78,78,Target Corp,TGT,Target Corp
+79,79,Tesla Inc,TSLA,Tesla Inc
+80,80,Texas Instruments Inc.,TXN,Texas Instruments Inc.
+81,81,Thermo Fisher Scientific Inc.,TMO,Thermo Fisher Scientific Inc.
+82,82,T-Mobile US Inc,TMUS,T-Mobile US Inc
+83,83,Union Pacific Corp.,UNP,Union Pacific Corp.
+84,84,Unitedhealth Group Inc,UNH,Unitedhealth Group Inc
+85,85,"United Parcel Service, Inc. - Class B Shares",UPS,"United Parcel Service, Inc. - Class B Shares"
+86,86,U.S. Bancorp.,USB,U.S. Bancorp.
+87,87,Verizon Communications Inc,VZ,Verizon Communications Inc
+88,88,Visa Inc - Class A Shares,V,Visa Inc - Class A Shares
+89,89,Walgreens Boots Alliance Inc,WBA,Walgreens Boots Alliance Inc
+90,90,Walmart Inc,WMT,Walmart Inc
+91,91,Walt Disney Co (The),DIS,Walt Disney Co (The)
+92,92,Wells Fargo & Co.,WFC,Wells Fargo & Co.
+93,93,Williams Cos Inc,WMB,Williams Cos Inc
