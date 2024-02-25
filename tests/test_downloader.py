@@ -1,7 +1,6 @@
 #TODO: Add specific messages upon fail
 #TODO: Add cmd line options to run subsets of tests https://docs.pytest.org/en/7.1.x/example/simple.html
 
-import pytest 
 import os
 from edgar.downloader import write_page, download_files_10k
 
