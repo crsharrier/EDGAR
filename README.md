@@ -15,3 +15,7 @@ Look for any correlations with short-term price movements.
 - **Un-merge quarterly reports** - I think I might have merged quarterly 10-Ks into one txt per year. This leaves us with fewer 'date' data points to analyze against stock prices.
 
 - **Reorganize data directory** - Simplify data directory structure. Write script to create this structure from a fresh first-run.
+
+- **Get yahoo data at similar resolution to 10-Ks** - might make sense to return quarterly trends over a longer period. Or maybe monthly. Also, make file output names more descriptive; including 'monthly' in the file name, for example.
+
+**CLI** - package the project smartly into an intuitive CLI. 
