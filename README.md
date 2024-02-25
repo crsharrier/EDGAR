@@ -8,22 +8,6 @@ For each 10-k filing, count the number of words listed as 'Negative', 'Positive'
 
 Look for any correlations with short-term price movements.
 
-#### Overview:
-
-**ref_data**
-- **get_sp100() -> pd.DataFrame**: return DataFrame with columns 'ticker' and 'entity_name'
-
-- **get_ticker_cik() -> pd.DataFrame** return DataFrame with columns 'ticker' and 'cik'
-
-- **get_yahoo_data() -> pd.DataFrame** - Return DataFrame containing historical price data for provided tickers.
-
-- **get_sentiment_word_dict() -> dict** - Return a dictionary containing the LM sentiment words.
-
-**downloader**
-
-**cleaner**
-
-**sentiment**
 
 #### BACKLOG:
 - **Unit tests** - I think most unit tests a broken now, as they are left over from an earlier version of the system.
